@@ -1,1 +1,1 @@
-# Cineplex-Ticket-Managemnt-
+# Cineplex-Ticket-Management
